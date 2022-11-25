@@ -11,7 +11,7 @@ Rock beats scissors, scissors beat paper, and paper beats rock.
 Agree ahead of time whether you’ll count off “rock, paper, scissors, shoot” or just “rock, paper, scissors.”
 Use rock, paper, scissors to settle minor decisions or simply play to pass the time.
 
-[![photo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png)&nbsp;
+[!photo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png)&nbsp;
 
 ## Tech Stack
 [![Java](https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/code-bajju/rock-paper-scissor-java)&nbsp;
